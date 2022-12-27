@@ -1,4 +1,4 @@
-# SecurityStories - 365 Days, 365 Stories 
+# SecurityStories - 52 Weeks, 52 Stories
 
 ## Story - 1: Featuring **Ahmet Gurel** 
 
