@@ -6,7 +6,7 @@
 
 Through SecurityStories series, Today, we are excited to bring forward the story of Ahmet Gurel who is a highly skilled ethical hacker from Turkey. Let's jump straight into learning more about him and from his experience. 
 
-##### **Question:** Could you briefly introduce yourself? 
+### **Question:** Could you briefly introduce yourself? 
 
 **Ahmet:** I'm a Senior Security Expert who performs pentest and source code analysis for Web, Mobile, Desktop, and Cloud applications. Also, I have knowledge and know-how about network protocol analysis, network & application security issues, exploiting, and vulnerability research. I have 7+ years of offensive security work experience, and I am currently working as a Senior Penetration Tester in a Bank. Apart from that, I have been actively involved in Bug bounty and Pentest as a Service projects for 3+ years.
 
