@@ -11,5 +11,5 @@ Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/har
 ___
 S.No. | Topic
 --- | ---
-**1** | [Ahmet Gurel](/resources/ahmet-gurel.md)
+**1** | [Ahmet Gurel](/SecurityStories/ahmet-gurel.md)
 
