@@ -80,6 +80,6 @@ Tool Kit List: gobuster, ffuf, subfinder, gau, httpx, nuclei, nmap, Burp Suite P
 
 > Did you find Ahmet's story interesting and inspiring? Make sure to share it with your friends and collegeus to spread the word. 
 
-> We will be coming with more such interesting and inspiring stories daily.
+> We will be coming with more such interesting and inspiring stories Weekly.
 
 Follow Me on [Twitter](https://www.twitter.com/harshbothra_)
