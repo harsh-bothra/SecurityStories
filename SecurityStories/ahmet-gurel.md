@@ -76,7 +76,6 @@ Tool Kit List: gobuster, ffuf, subfinder, gau, httpx, nuclei, nmap, Burp Suite P
 - LinkedIn: https://www.linkedin.com/in/ahmetgurell
 - Exploit-DB: https://www.exploit-db.com/?author=8736 
 
-[Twitter Thread]()
 
 > Did you find Ahmet's story interesting and inspiring? Make sure to share it with your friends and collegeus to spread the word. 
 
