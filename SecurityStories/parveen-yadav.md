@@ -1,6 +1,6 @@
 # SecurityStories - 52 Weeks, 52 Stories
 
-## Story - 5: Featuring **Parven Yadav** 
+## Story - 5: Featuring **Parveen Yadav** 
 
 ![Parveen Yadav](../media/parveen-yadav.jpg)
 
@@ -23,7 +23,7 @@ Let's jump straight into learning more about him and his experience.
 
 
 ### **Question:** What is the learning methodology you followed or still follow? 
-**Parveen: ** Self-learning is the best learning method, and I greatly advocate it. You learn and grow from your mistakes and gain experiences. 
+**Parveen:** Self-learning is the best learning method, and I greatly advocate it. You learn and grow from your mistakes and gain experiences. 
 
 
 
