@@ -91,16 +91,16 @@ Ethical hacking is a challenging field. It's really, really hard. But with the r
 
 ### Social Profiles
 
-> ▶️ YouTube: https://www.youtube.com/c/PinkDraconian
-> 🐦 Twitter: https://twitter.com/PinkDraconian
-> 🎵 TikTok: https://www.tiktok.com/@pinkdraconian
-> ℹ️ LinkedIn: https://www.linkedin.com/in/robbe-van-roey-365666195/
-> 🎁 Patreon: https://www.patreon.com/PinkDraconian
-> 📞 Discord: PinkDraconian#9907
-> 📷 Instagram: https://www.instagram.com/robbevanroey/
+- ▶️ YouTube: https://www.youtube.com/c/PinkDraconian
+- 🐦 Twitter: https://twitter.com/PinkDraconian
+- 🎵 TikTok: https://www.tiktok.com/@pinkdraconian
+- ℹ️ LinkedIn: https://www.linkedin.com/in/robbe-van-roey-365666195/
+- 🎁 Patreon: https://www.patreon.com/PinkDraconian
+- 📞 Discord: PinkDraconian#9907
+- 📷 Instagram: https://www.instagram.com/robbevanroey/
 
 
-Did you find Robbe Van Roey's story interesting and inspiring? Please share it with your friends and colleagues to spread the word. 
+> Did you find Robbe Van Roey's story interesting and inspiring? Please share it with your friends and colleagues to spread the word. 
 
 > We will be coming up with more exciting and inspiring stories Weekly.
 
