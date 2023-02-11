@@ -18,3 +18,4 @@ S.No. | Story
 **4** | [Luke Stephens](/SecurityStories/luke-stephens.md)
 **5** | [Parveen Yadav](/SecurityStories/parveen-yadav.md)
 **6** | [Robbe Van Roey](/SecurityStories/robbe-van-roey.md)
+**7** | [Mrityunjoy Biswas](/SecurityStories/mrityunjoy-biswas.md)
