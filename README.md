@@ -10,12 +10,13 @@ Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/har
 # SecurityStories - Story List
 ___
 
-S.No. | Story
----   | ---
-**1** | [Ahmet Gurel](/SecurityStories/ahmet-gurel.md)
-**2** | [Sumit Grover](/SecurityStories/sumit-grover.md)
-**3** | [Nilesh Sapariya](/SecurityStories/nilesh-sapariya.md)
-**4** | [Luke Stephens](/SecurityStories/luke-stephens.md)
-**5** | [Parveen Yadav](/SecurityStories/parveen-yadav.md)
-**6** | [Robbe Van Roey](/SecurityStories/robbe-van-roey.md)
-**7** | [Mrityunjoy Biswas](/SecurityStories/mrityunjoy-biswas.md)
+S.No. | Story | Social Profile
+---   | ---   | ---   
+**1** | [Ahmet Gurel](/SecurityStories/ahmet-gurel.md) | [Twitter](https://twitter.com/ahmettgurell)
+**2** | [Sumit Grover](/SecurityStories/sumit-grover.md) | [Twitter](https://twitter.com/sumgr0)
+**3** | [Nilesh Sapariya](/SecurityStories/nilesh-sapariya.md) | [Twitter](https://twitter.com/nilesh_loganx)
+**4** | [Luke Stephens](/SecurityStories/luke-stephens.md) | [Twitter](https://twitter.com/hakluke)
+**5** | [Parveen Yadav](/SecurityStories/parveen-yadav.md) |[Twitter](https://twitter.com/parveen1015)
+**6** | [Robbe Van Roey](/SecurityStories/robbe-van-roey.md) |[Twitter](https://twitter.com/PinkDraconian)
+**7** | [Mrityunjoy Biswas](/SecurityStories/mrityunjoy-biswas.md) | [Twitter](https://twitter.com/mitunjoy11)
+**8** | [Aditya Dixit](/SecurityStories/aditya-dixit.md) | [Twitter](https://twitter.com/zombie007o)
