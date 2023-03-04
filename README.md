@@ -21,3 +21,4 @@ S.No. | Story | Social Profile
 **7** | [Mrityunjoy Biswas](/SecurityStories/mrityunjoy-biswas.md) | [Twitter](https://twitter.com/mitunjoy11)
 **8** | [Aditya Dixit](/SecurityStories/aditya-dixit.md) | [Twitter](https://twitter.com/zombie007o)
 **9** | [Nicolas Krassas](/SecurityStories/nicolas-krassas.md) | [Twitter](https://twitter.com/Dinosn)
+**10** | [Sameer Bhatt](/SecurityStories/sameer-bhatt.md) | [Twitter](https://twitter.com/sameer_bhatt5)
