@@ -22,4 +22,4 @@ S.No. | Story | Social Profile
 **8** | [Aditya Dixit](/SecurityStories/aditya-dixit.md) | [Twitter](https://twitter.com/zombie007o)
 **9** | [Nicolas Krassas](/SecurityStories/nicolas-krassas.md) | [Twitter](https://twitter.com/Dinosn)
 **10** | [Sameer Bhatt](/SecurityStories/sameer-bhatt.md) | [Twitter](https://twitter.com/sameer_bhatt5)
-**11** | [Sameer Bhatt](/SecurityStories/gurur-yetiskin.md) | [Twitter](https://twitter.com/gy3tiskin)
+**11** | [Gurur Yetiskin](/SecurityStories/gurur-yetiskin.md) | [Twitter](https://twitter.com/gy3tiskin)
