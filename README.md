@@ -23,3 +23,4 @@ S.No. | Story | Social Profile
 **9** | [Nicolas Krassas](/SecurityStories/nicolas-krassas.md) | [Twitter](https://twitter.com/Dinosn)
 **10** | [Sameer Bhatt](/SecurityStories/sameer-bhatt.md) | [Twitter](https://twitter.com/sameer_bhatt5)
 **11** | [Gurur Yetiskin](/SecurityStories/gurur-yetiskin.md) | [Twitter](https://twitter.com/gy3tiskin)
+**12** | [Vickie Li](/SecurityStories/vickie-li.md) | [Twitter](https://twitter.com/vickieli7)
