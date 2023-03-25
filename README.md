@@ -24,3 +24,5 @@ S.No. | Story | Social Profile
 **10** | [Sameer Bhatt](/SecurityStories/sameer-bhatt.md) | [Twitter](https://twitter.com/sameer_bhatt5)
 **11** | [Gurur Yetiskin](/SecurityStories/gurur-yetiskin.md) | [Twitter](https://twitter.com/gy3tiskin)
 **12** | [Vickie Li](/SecurityStories/vickie-li.md) | [Twitter](https://twitter.com/vickieli7)
+**13** | [Michael Blake](/SecurityStories/michael-blake.md) | [Twitter](https://twitter.com/Michael1026H1)
+
