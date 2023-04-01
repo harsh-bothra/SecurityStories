@@ -25,4 +25,5 @@ S.No. | Story | Social Profile
 **11** | [Gurur Yetiskin](/SecurityStories/gurur-yetiskin.md) | [Twitter](https://twitter.com/gy3tiskin)
 **12** | [Vickie Li](/SecurityStories/vickie-li.md) | [Twitter](https://twitter.com/vickieli7)
 **13** | [Michael Blake](/SecurityStories/michael-blake.md) | [Twitter](https://twitter.com/Michael1026H1)
+**13** | [Himanshu Giri](/SecurityStories/himanshu-giri.md) | [Twitter](https://twitter.com/h0i0m0a0n0s0h0u)
 
