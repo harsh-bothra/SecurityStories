@@ -27,3 +27,4 @@ S.No. | Story | Social Profile
 **13** | [Michael Blake](/SecurityStories/michael-blake.md) | [Twitter](https://twitter.com/Michael1026H1)
 **14** | [Himanshu Giri](/SecurityStories/himanshu-giri.md) | [Twitter](https://twitter.com/h0i0m0a0n0s0h0u)
 **15** | [Kishore Krishna Pai](/SecurityStories/kishore-krishna.md) | [Twitter](https://twitter.com/sillydadddy)
+**16** | [Godson Bastin](/SecurityStories/godson-bastin.md) | [Twitter](https://twitter.com/0xGodson_)
