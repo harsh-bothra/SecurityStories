@@ -28,3 +28,4 @@ S.No. | Story | Social Profile
 **14** | [Himanshu Giri](/SecurityStories/himanshu-giri.md) | [Twitter](https://twitter.com/h0i0m0a0n0s0h0u)
 **15** | [Kishore Krishna Pai](/SecurityStories/kishore-krishna.md) | [Twitter](https://twitter.com/sillydadddy)
 **16** | [Godson Bastin](/SecurityStories/godson-bastin.md) | [Twitter](https://twitter.com/0xGodson_)
+**16** | [Orwa Atyat](/SecurityStories/orwa-atyat.md) | [Twitter](https://twitter.com/GodfatherOrwa)
