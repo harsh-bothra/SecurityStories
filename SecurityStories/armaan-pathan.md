@@ -2,7 +2,7 @@
 
 ## Story - 18: Featuring **Armaan Pathan** 
 
-![Armaan Bastin](../media/armaan-pathan.jpg)
+![Armaan Pathan](../media/armaan-pathan.jpg)
 
 Through the SecurityStories series, Today, we are excited to bring forward the story of Armaan Pathan, who is currently working as a Senior Security Engineer and is well known for his exciting research and bug bounty work.
 

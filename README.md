@@ -30,3 +30,4 @@ S.No. | Story | Social Profile
 **16** | [Godson Bastin](/SecurityStories/godson-bastin.md) | [Twitter](https://twitter.com/0xGodson_)
 **17** | [Orwa Atyat](/SecurityStories/orwa-atyat.md) | [Twitter](https://twitter.com/GodfatherOrwa)
 **18** | [Armaan Pathan](/SecurityStories/armaan-pathan.md) | [Twitter](https://twitter.com/armaancrockroax)
+**19** | [Saad Nasir](/SecurityStories/saad-nasir.md) | [Twitter](https://twitter.com/iamsaadnasir)
