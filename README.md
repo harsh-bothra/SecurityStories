@@ -32,3 +32,4 @@ S.No. | Story | Social Profile
 **18** | [Armaan Pathan](/SecurityStories/armaan-pathan.md) | [Twitter](https://twitter.com/armaancrockroax)
 **19** | [Saad Nasir](/SecurityStories/saad-nasir.md) | [Twitter](https://twitter.com/iamsaadnasir)
 **20** | [Lauritz Holtmann](/SecurityStories/lauritz-holtmann.md) | [Twitter](https://twitter.com/_lauritz_)
+**20** | [Sujit Suryawanshi](/SecurityStories/sujit-suryawanshi.md) | [Twitter](https://twitter.com/_codeh4ck3r)
