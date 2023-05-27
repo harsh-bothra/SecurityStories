@@ -1,6 +1,6 @@
 # SecurityStories - 52 Weeks, 52 Stories
 
-## Story - 21: Featuring **Pranit Garud** 
+## Story - 22: Featuring **Pranit Garud** 
 
 ![Pranit Garud](../media/pranit-garud.jpg)
 
