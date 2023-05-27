@@ -33,3 +33,4 @@ S.No. | Story | Social Profile
 **19** | [Saad Nasir](/SecurityStories/saad-nasir.md) | [Twitter](https://twitter.com/iamsaadnasir)
 **20** | [Lauritz Holtmann](/SecurityStories/lauritz-holtmann.md) | [Twitter](https://twitter.com/_lauritz_)
 **21** | [Sujit Suryawanshi](/SecurityStories/sujit-suryawanshi.md) | [Twitter](https://twitter.com/_codeh4ck3r)
+**22** | [Pranit Garud](/SecurityStories/pranit-garud.md) | [Twitter](https://twitter.com/rootsploit)
